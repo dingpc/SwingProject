@@ -14,7 +14,7 @@ import javax.swing.UIManager;
 public class SwingComponent {
 	
 	JFrame jf = new JFrame("BOE CIM TEST");
-	
+	 
 	//定义一个40列的单行文本域
 	JTextField name = new JTextField(40);
 	//定义一个按钮

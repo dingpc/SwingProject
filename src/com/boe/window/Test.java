@@ -133,6 +133,7 @@ public class Test extends javax.swing.JFrame {
 		setJMenuBar(jMenuBar1);
 		setContentPane(splitPane);
 		setSize(1024, 730);
+		
 	}
 
 	public static Test getFrame() {
